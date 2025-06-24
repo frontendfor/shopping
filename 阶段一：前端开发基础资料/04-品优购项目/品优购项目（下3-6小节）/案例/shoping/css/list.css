@@ -34,7 +34,6 @@
     line-height: 49px;
     padding: 0 20px;
     font-size: 14px;
-   
 }
 .sk_con  ul li:last-child a::after {
     content: '\e91e';
